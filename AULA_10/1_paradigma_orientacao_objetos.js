@@ -46,4 +46,4 @@
 //criar os metodos: consultarSaldo(), executarTransferencia(), ocultarSaldo()
 // instanciar uma classe cliente chamda primeiroCliente com os valores:
 //"Roberto", "440.797.107-04", "19/09/1998", 5422.22
-// exibir os valores com console.log() de slado e executar o metodo consultarSaldo()
+// exibir os valores com console.log() de slado e executar o metodo consultarSaldo()+
